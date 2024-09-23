@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Ali",
+      "age": "35",
+      "email": "ali@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "sam",
+      "age": "20",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "saad talha",
+      "age": "25",
+      "email": "ms0601572@gmail.com"
+    },
+    {
+      "name": "abdullah",
+      "age": "15",
+      "email": "abdullah@gmail.com",
+      "id": 9
+    }
+  ]
+}
