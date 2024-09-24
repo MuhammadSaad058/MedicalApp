@@ -3,7 +3,7 @@ import { initializeApp, getApp, getApps } from 'firebase/app';
 import { getDatabase, ref, set, get } from 'firebase/database';
 import { getFirestore, doc, setDoc, updateDoc, arrayUnion, getDoc } from 'firebase/firestore';
 
-// Your web app's Firebase configuration
+// app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyCyjGrMYTsHbwJUM6rk4I38yxDYggiR8Wc",
   authDomain: "fir-auth-tutorial-4d656.firebaseapp.com",
